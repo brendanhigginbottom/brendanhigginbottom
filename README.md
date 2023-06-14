@@ -1,5 +1,5 @@
 ![banner](https://github.com/brendanhigginbottom/brendanhigginbottom/assets/111456731/b446de3f-8f7a-492c-afe2-5f0dfdb905e4)
-<h1 align="center">Hi 👋, I'm Brendan</h1>
+<h1 align="center">I'm Brendan</h1>
 <h3 align="center">A full-stack developer from Minnesota</h3>
 
 - 📫 How to reach me **brendan.higginbottom@gmail.com**
